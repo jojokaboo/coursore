@@ -1,0 +1,470 @@
+.slide {
+    background-color: #fefae0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.div {
+    background-color: #fefae0;
+    border: 1px none;
+    height: 1080px;
+    overflow: hidden;
+    position: relative;
+    width: 1920px;
+}
+
+.overlap-group {
+    background-color: #bc6c25;
+    height: 155px;
+    left: 0;
+    position: absolute;
+    top: 989px;
+    width: 1920px;
+}
+
+.text-wrapper {
+    color: #fefae0;
+    font-family: Helvetica,"Open Sans-Light",  serif;
+    font-size: 16px;
+    font-weight: 300;
+    left: 1346px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+}
+
+.text-wrapper-2 {
+    color: #fefae0;
+    font-family: Helvetica,"Open Sans-Light",  serif;
+    font-size: 16px;
+    font-weight: 300;
+    left: 1023px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+}
+
+.text-wrapper-3 {
+    color: #fefae0;
+    font-family: Helvetica,"Open Sans-Light",  serif;
+    font-size: 16px;
+    font-weight: 300;
+    left: 743px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+}
+
+.text-wrapper-4 {
+    color: #fefae0;
+    font-family: Helvetica,"Open Sans-Light",  serif;
+    font-size: 16px;
+    font-weight: 300;
+    left: 128px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 31px;
+}
+
+.vector {
+    height: 22px;
+    left: 1770px;
+    position: absolute;
+    top: 32px;
+    width: 22px;
+}
+
+.facebook-fb-face {
+    height: 22px;
+    left: 1719px;
+    position: absolute;
+    top: 32px;
+    width: 22px;
+}
+
+.group {
+    height: 22px;
+    left: 1668px;
+    position: absolute;
+    top: 32px;
+    width: 22px;
+}
+
+.img {
+    height: 30px;
+    left: 1613px;
+    position: absolute;
+    top: 32px;
+    width: 30px;
+}
+
+.text-wrapper-5 {
+    color: #1e1e1e;
+    font-family: Helvetica, "Open Sans-Light", serif;
+    font-size: 44px;
+    font-weight: 700;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 62px;
+}
+
+.text-wrapper-6 {
+    color: #1e1e1e;
+    font-family: Helvetica,"Open Sans-Light", serif;
+    font-size: 20px;
+    font-weight: 300;
+    left: 366px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 67px;
+}
+
+.text-wrapper-7 {
+    color: #1e1e1e;
+    font-family: "Open Sans-Light", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 300;
+    left: 632px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 79px;
+}
+
+.text-wrapper-8 {
+    color: #1e1e1e;
+    font-family: "Open Sans-Light", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 300;
+    left: 828px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 79px;
+}
+
+.text-wrapper-9 {
+    color: #1e1e1e;
+    font-family: "Open Sans-Light", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 300;
+    left: 1002px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 79px;
+}
+
+.text-wrapper-10 {
+    color: #1e1e1e;
+    font-family: "Open Sans-Light", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 300;
+    left: 1161px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 79px;
+}
+
+.overlap {
+    border: 3px solid #000000;
+    border-radius: 33px;
+    height: 52px;
+    left: 1366px;
+    position: absolute;
+    top: 66px;
+    width: 120px;
+    flex-shrink: 0;
+}
+
+.text-wrapper-11 {
+    color: #1e1e1e;
+    font-family: "Open Sans-SemiBold", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 600;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 8px;
+    text-align: center;
+}
+
+.div-wrapper {
+    background-color: #bc6c25;
+    border: 3px solid #000000;
+    border-radius: 33px;
+    height: 52px;
+    left: 1536px;
+    position: absolute;
+    top: 66px;
+    width: 273px;
+}
+
+.text-wrapper-12 {
+    color: #fefae0;
+    font-family: "Open Sans-SemiBold", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 600;
+    left: 47px;
+    letter-spacing: 0;
+    line-height: 33px;
+    position: absolute;
+    top: 8px;
+    width: 173px;
+    text-align: center;
+}
+
+.h-1 {
+    color: #000000;
+    font-family: Gilroy-Light, "Gilroy Light", serif;
+    font-size: 48px;
+    font-weight: 300;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 317px;
+    white-space: nowrap;
+}
+
+.coursore {
+    color: #1e1e1e;
+    font-family: "Open Sans-Regular", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 396px;
+    width: 444px;
+}
+
+.span {
+    color: #1e1e1e;
+    font-family: "Open Sans-Regular", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.text-wrapper-13 {
+    font-family: "Open Sans-Light", Helvetica, serif;
+    font-weight: 300;
+}
+
+.overlap-2 {
+    height: 290px;
+    left: 90px;
+    position: absolute;
+    top: 471px;
+    width: 444px;
+}
+
+.python-java {
+    color: #1e1e1e;
+    font-family: "Open Sans-Light", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: justify;
+    top: 0;
+    width: 444px;
+}
+
+.coursore-2 {
+    color: #1e1e1e;
+    font-family: "Open Sans-SemiBold", Helvetica, serif;
+    font-size: 20px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 232px;
+    width: 444px;
+}
+
+.overlap-3 {
+    background-image: url(../coursore/python.png);
+    background-size: 100% 100%;
+    height: 444px;
+    left: 582px;
+    position: absolute;
+    top: 318px;
+    width: 378px;
+    border-radius: 20px;
+    background-blend-mode: multiply;
+    box-shadow: 0 -104px 44px -4px rgba(0, 0, 0, 0.50) inset;
+
+}
+
+.text-wrapper-14 {
+    color: #fefae0;
+    font-family: "Open Sans-SemiBold", Helvetica, serif;
+    font-size: 24px;
+    font-weight: 600;
+    left: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 352px;
+    width: 257px;
+}
+
+.arrow-wrapper {
+    background-color: #bc6c25;
+    border-radius: 25px;
+    height: 50px;
+    left: 296px;
+    position: absolute;
+    top: 361px;
+    width: 50px;
+}
+
+.arrow {
+    height: 22px;
+    left: 13px;
+    position: absolute;
+    top: 14px;
+    width: 26px;
+}
+
+.overlap-4 {
+    background-image: url(../coursore/java.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 444px;
+    left: 1042px;
+    position: absolute;
+    top: 318px;
+    width: 137px;
+    border-radius: 20px;
+    opacity: 0.8999999761581421;
+    background-blend-mode: multiply;
+    box-shadow: 0 -104px 44px -4px rgba(0, 0, 0, 0.50) inset;
+}
+
+.text-wrapper-15 {
+    color: #fefae0;
+    font-family: "Open Sans-SemiBold", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 600;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 61px;
+}
+
+.img-wrapper {
+    background-color: #bc6c25;
+    border-radius: 25px;
+    height: 50px;
+    left: 44px;
+    position: absolute;
+    top: 361px;
+    width: 50px;
+    z-index: 1;
+}
+
+.overlap-5 {
+    background-image: url(../coursore/clang.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 444px;
+    left: 1252px;
+    position: absolute;
+    top: 318px;
+    width: 137px;
+    border-radius: 20px;
+    opacity: 0.8500000238418579;
+    background-blend-mode: multiply;
+    box-shadow: 0 -104px 44px -4px rgba(0, 0, 0, 0.50) inset;
+}
+
+.text-wrapper-16 {
+    color: #1e1e1e;
+    font-family: "Open Sans-SemiBold", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 600;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 61px;
+}
+
+.overlap-6 {
+    background-image: url(../coursore/html.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 444px;
+    left: 1462px;
+    position: absolute;
+    top: 318px;
+    width: 137px;
+    border-radius: 20px;
+    opacity: 0.800000011920929;
+    mix-blend-mode: multiply;
+    box-shadow: 0 -104px 44px -4px rgba(0, 0, 0, 0.50) inset;
+}
+
+.text-wrapper-17 {
+    color: #1e1e1e;
+    font-family: "Open Sans-SemiBold", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 600;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 79px;
+}
+
+.overlap-7 {
+    background-image: url(../coursore/php.png);
+    background-size: 100% 100%;
+    height: 444px;
+    left: 1672px;
+    position: absolute;
+    top: 318px;
+    width: 137px;
+    border-radius: 20px;
+    opacity: 0.699999988079071;
+    mix-blend-mode: multiply;
+    box-shadow: 0 -104px 44px -4px rgba(0, 0, 0, 0.50) inset;
+    z-index: 0;
+}
+
+.text-wrapper-18 {
+    color: #fefae0;
+    font-family: "Open Sans-SemiBold", Helvetica, serif;
+    font-size: 26px;
+    font-weight: 600;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    width: 79px;
+}
+
